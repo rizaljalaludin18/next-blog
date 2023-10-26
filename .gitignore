@@ -1,0 +1,13 @@
+# Ignore Node.js build artifacts
+node_modules
+.next
+
+# Ignore development server logs
+.npm
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore ESLint cache
+.eslintcache
