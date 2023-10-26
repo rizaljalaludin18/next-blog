@@ -20,8 +20,12 @@ function HomePage () {
                 <Link href = "posts/first-post">
                     Postingan Pertama
                 </Link>
+               
                 
                  </li>
+                 <li> <Link href = "posts/secondpost">
+                    Postingan Kedua
+                </Link></li>
             
         </ul>
         </main>
